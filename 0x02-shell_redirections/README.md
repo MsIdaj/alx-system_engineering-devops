@@ -1,1 +1,1 @@
-Smiley script
+this is a readme
