@@ -1,1 +1,1 @@
-Script that displays Hello World
+This is a readme
