@@ -1,1 +1,1 @@
-display smiley
+Display script readme
