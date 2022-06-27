@@ -1,1 +1,1 @@
-This is a readme
+script that prints Hello, World
