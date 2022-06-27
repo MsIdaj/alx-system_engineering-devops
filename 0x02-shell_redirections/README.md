@@ -1,1 +1,1 @@
-display smiler script
+Display smiley script
